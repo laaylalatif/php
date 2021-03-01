@@ -34,14 +34,14 @@ class Banco {
       public function depositar($valor){
           if ($this->gettStatus()) {
               $this->setSaldo($this->getSaldo() + $valor);
-              //$this->saldo = $this->saldo = $valor;
+              //$this->saldo = $this->saldo + $valor;
           }else {
               echo "<p>Conta fechada. Não Consigo depositar </p>";
           }
       }
       public function sacar($valor){
           if ($this->getStatus()){
-              if($this->getSaldo > $valor){
+              if($this->getSaldo() > $valor){
                  //$this->saldo = $this->saldo - $valor;
                   $this->setSaldo($this->getSaldo() - $valor);
               }else {
@@ -65,7 +65,7 @@ class Banco {
       }
       //metodos especiais
       
-      public function Banco() {
+      public function __construct() {
          $this->setSaldo(0);
          $this->setStatus(false);
          echo "<p>Conta Criada com sucesso!</p>";
@@ -79,11 +79,11 @@ class Banco {
       public function getTipo(){
           return $this->tipo;
       }
-      public function settipo($t){
+      public function setTipo($t){
           $this->tipo = $t;
       }
       public function getDono(){
-          return $this->Dono;
+          return $this->dono;
       }
       public function setDono($dono){ //$dono - variavael. dono é um atributo que tem o $this na frente.
           $this->dono = $dono;
@@ -92,13 +92,20 @@ class Banco {
           return $this->saldo; 
       }
       public function setSaldo($saldo){
-          $this->saldo($saldo);
+          $this->saldo = $saldo;
       }
       public function getStatus(){
-          return $this->saldo;
+          return $this->status;
       }
       public function setStatus($status){
           $this->status = $status;
       }
-}      
-    
+}  
+
+$p1 = new banco(); 
+$p2 = new banco(); 
+$p1->abrirConta("CC");
+$p1->setDono("Jubileu");
+
+
+?>    
