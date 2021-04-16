@@ -1,0 +1,1986 @@
+[
+    {
+        "categoria": "1",
+        "tipo_de_carga": "1",
+        "eixos": "2",
+        "deslocamento": 2.1406,
+        "carga_descarga": 208.46
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "1",
+        "eixos": "3",
+        "deslocamento": 2.6987,
+        "carga_descarga": 239.19
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "1",
+        "eixos": "4",
+        "deslocamento": 3.1378,
+        "carga_descarga": 263.3
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "1",
+        "eixos": "5",
+        "deslocamento": 3.5303,
+        "carga_descarga": 277.11
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "1",
+        "eixos": "6",
+        "deslocamento": 4.0143,
+        "carga_descarga": 307.67
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "1",
+        "eixos": "7",
+        "deslocamento": 4.4012,
+        "carga_descarga": 357.6
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "1",
+        "eixos": "9",
+        "deslocamento": 5.0205,
+        "carga_descarga": 387.88
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "2",
+        "eixos": "2",
+        "deslocamento": 2.1746,
+        "carga_descarga": 213.57
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "2",
+        "eixos": "3",
+        "deslocamento": 2.7416,
+        "carga_descarga": 246.75
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "2",
+        "eixos": "4",
+        "deslocamento": 3.1632,
+        "carga_descarga": 261.81
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "2",
+        "eixos": "5",
+        "deslocamento": 3.6026,
+        "carga_descarga": 288.53
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "2",
+        "eixos": "6",
+        "deslocamento": 4.0866,
+        "carga_descarga": 319.08
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "2",
+        "eixos": "7",
+        "deslocamento": 4.508,
+        "carga_descarga": 378.5
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "2",
+        "eixos": "9",
+        "deslocamento": 5.1267,
+        "carga_descarga": 408.64
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "3",
+        "eixos": "2",
+        "deslocamento": 2.5627,
+        "carga_descarga": 244.72
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "3",
+        "eixos": "3",
+        "deslocamento": 3.2115,
+        "carga_descarga": 276.19
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "3",
+        "eixos": "4",
+        "deslocamento": 3.7501,
+        "carga_descarga": 310.99
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "3",
+        "eixos": "5",
+        "deslocamento": 4.2983,
+        "carga_descarga": 350.3
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "3",
+        "eixos": "6",
+        "deslocamento": 4.8539,
+        "carga_descarga": 380.86
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "3",
+        "eixos": "7",
+        "deslocamento": 5.2278,
+        "carga_descarga": 427.21
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "3",
+        "eixos": "9",
+        "deslocamento": 5.9503,
+        "carga_descarga": 461.79
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "4",
+        "eixos": "2"
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "4",
+        "eixos": "3",
+        "deslocamento": 2.6879,
+        "carga_descarga": 236.21
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "4",
+        "eixos": "4",
+        "deslocamento": 3.1325,
+        "carga_descarga": 261.81
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "4",
+        "eixos": "5",
+        "deslocamento": 3.5287,
+        "carga_descarga": 276.67
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "4",
+        "eixos": "6",
+        "deslocamento": 4.0127,
+        "carga_descarga": 307.22
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "4",
+        "eixos": "7",
+        "deslocamento": 4.4018,
+        "carga_descarga": 357.74
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "4",
+        "eixos": "9",
+        "deslocamento": 5.0151,
+        "carga_descarga": 386.4
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "5",
+        "eixos": "2",
+        "deslocamento": 2.1347,
+        "carga_descarga": 206.83
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "5",
+        "eixos": "3",
+        "deslocamento": 2.6879,
+        "carga_descarga": 236.21
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "5",
+        "eixos": "4",
+        "deslocamento": 3.1325,
+        "carga_descarga": 261.81
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "5",
+        "eixos": "5",
+        "deslocamento": 3.5287,
+        "carga_descarga": 276.67
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "5",
+        "eixos": "6",
+        "deslocamento": 4.0127,
+        "carga_descarga": 307.22
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "5",
+        "eixos": "7",
+        "deslocamento": 4.4018,
+        "carga_descarga": 357.74
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "5",
+        "eixos": "9",
+        "deslocamento": 5.0151,
+        "carga_descarga": 386.4
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "6",
+        "eixos": "2",
+        "deslocamento": 1.9012,
+        "carga_descarga": 206.83
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "6",
+        "eixos": "3",
+        "deslocamento": 2.6879,
+        "carga_descarga": 236.21
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "6",
+        "eixos": "4",
+        "deslocamento": 3.1476,
+        "carga_descarga": 265.97
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "6",
+        "eixos": "5",
+        "deslocamento": 3.5287,
+        "carga_descarga": 276.67
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "6",
+        "eixos": "6",
+        "deslocamento": 4.0127,
+        "carga_descarga": 307.22
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "6",
+        "eixos": "7",
+        "deslocamento": 4.4018,
+        "carga_descarga": 357.74
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "6",
+        "eixos": "9",
+        "deslocamento": 5.0151,
+        "carga_descarga": 386.4
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "7",
+        "eixos": "2",
+        "deslocamento": 2.6798,
+        "carga_descarga": 311.87
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "7",
+        "eixos": "3",
+        "deslocamento": 3.2379,
+        "carga_descarga": 342.6
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "7",
+        "eixos": "4",
+        "deslocamento": 3.7045,
+        "carga_descarga": 371.91
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "7",
+        "eixos": "5",
+        "deslocamento": 4.097,
+        "carga_descarga": 385.72
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "7",
+        "eixos": "6",
+        "deslocamento": 4.581,
+        "carga_descarga": 416.28
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "7",
+        "eixos": "7",
+        "deslocamento": 4.9759,
+        "carga_descarga": 468.41
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "7",
+        "eixos": "9",
+        "deslocamento": 5.5952,
+        "carga_descarga": 498.7
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "8",
+        "eixos": "2",
+        "deslocamento": 2.7311,
+        "carga_descarga": 325.99
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "8",
+        "eixos": "3",
+        "deslocamento": 3.2981,
+        "carga_descarga": 359.16
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "8",
+        "eixos": "4",
+        "deslocamento": 3.7319,
+        "carga_descarga": 379.43
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "8",
+        "eixos": "5",
+        "deslocamento": 4.1712,
+        "carga_descarga": 406.14
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "8",
+        "eixos": "6",
+        "deslocamento": 4.6552,
+        "carga_descarga": 436.7
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "8",
+        "eixos": "7",
+        "deslocamento": 5.0846,
+        "carga_descarga": 498.32
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "8",
+        "eixos": "9",
+        "deslocamento": 5.7034,
+        "carga_descarga": 528.46
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "9",
+        "eixos": "2",
+        "deslocamento": 2.9864,
+        "carga_descarga": 319.75
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "9",
+        "eixos": "3",
+        "deslocamento": 3.6352,
+        "carga_descarga": 351.22
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "9",
+        "eixos": "4",
+        "deslocamento": 4.1947,
+        "carga_descarga": 392.78
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "9",
+        "eixos": "5",
+        "deslocamento": 4.743,
+        "carga_descarga": 432.09
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "9",
+        "eixos": "6",
+        "deslocamento": 5.2986,
+        "carga_descarga": 462.65
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "9",
+        "eixos": "7",
+        "deslocamento": 5.6829,
+        "carga_descarga": 511.87
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "9",
+        "eixos": "9",
+        "deslocamento": 6.4053,
+        "carga_descarga": 546.45
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "10",
+        "eixos": "2"
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "10",
+        "eixos": "3",
+        "deslocamento": 2.9399,
+        "carga_descarga": 303.16
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "10",
+        "eixos": "4",
+        "deslocamento": 3.412,
+        "carga_descarga": 333.97
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "10",
+        "eixos": "5",
+        "deslocamento": 3.8083,
+        "carga_descarga": 348.82
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "10",
+        "eixos": "6",
+        "deslocamento": 4.2923,
+        "carga_descarga": 379.38
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "10",
+        "eixos": "7",
+        "deslocamento": 4.6893,
+        "carga_descarga": 432.11
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "10",
+        "eixos": "9",
+        "deslocamento": 5.3027,
+        "carga_descarga": 460.76
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "11",
+        "eixos": "2",
+        "deslocamento": 2.3868,
+        "carga_descarga": 273.78
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "11",
+        "eixos": "3",
+        "deslocamento": 2.9399,
+        "carga_descarga": 303.16
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "11",
+        "eixos": "4",
+        "deslocamento": 3.412,
+        "carga_descarga": 333.97
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "11",
+        "eixos": "5",
+        "deslocamento": 3.8083,
+        "carga_descarga": 348.82
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "11",
+        "eixos": "6",
+        "deslocamento": 4.2923,
+        "carga_descarga": 379.38
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "11",
+        "eixos": "7",
+        "deslocamento": 4.6893,
+        "carga_descarga": 432.11
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "11",
+        "eixos": "9",
+        "deslocamento": 5.3027,
+        "carga_descarga": 460.76
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "12",
+        "eixos": "2"
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "12",
+        "eixos": "3"
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "12",
+        "eixos": "4"
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "12",
+        "eixos": "5",
+        "deslocamento": 3.6729,
+        "carga_descarga": 316.31
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "12",
+        "eixos": "6",
+        "deslocamento": 4.1569,
+        "carga_descarga": 346.87
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "12",
+        "eixos": "7"
+    },
+    {
+        "categoria": "1",
+        "tipo_de_carga": "12",
+        "eixos": "9",
+        "deslocamento": 5.2285,
+        "carga_descarga": 445.08
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "1",
+        "eixos": "4",
+        "deslocamento": 2.8914,
+        "carga_descarga": 239.3
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "1",
+        "eixos": "5",
+        "deslocamento": 3.1866,
+        "carga_descarga": 248.22
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "1",
+        "eixos": "6",
+        "deslocamento": 3.6706,
+        "carga_descarga": 278.78
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "1",
+        "eixos": "7",
+        "deslocamento": 3.9305,
+        "carga_descarga": 315.68
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "1",
+        "eixos": "9",
+        "deslocamento": 4.3309,
+        "carga_descarga": 329.51
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "2",
+        "eixos": "4",
+        "deslocamento": 2.9222,
+        "carga_descarga": 239.3
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "2",
+        "eixos": "5",
+        "deslocamento": 3.2173,
+        "carga_descarga": 248.22
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "2",
+        "eixos": "6",
+        "deslocamento": 3.7013,
+        "carga_descarga": 278.78
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "2",
+        "eixos": "7",
+        "deslocamento": 3.9612,
+        "carga_descarga": 315.68
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "2",
+        "eixos": "9",
+        "deslocamento": 4.3616,
+        "carga_descarga": 329.51
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "3",
+        "eixos": "4",
+        "deslocamento": 3.4471,
+        "carga_descarga": 271.42
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "3",
+        "eixos": "5",
+        "deslocamento": 3.8052,
+        "carga_descarga": 280.34
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "3",
+        "eixos": "6",
+        "deslocamento": 4.3608,
+        "carga_descarga": 310.9
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "3",
+        "eixos": "7",
+        "deslocamento": 4.6288,
+        "carga_descarga": 350
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "3",
+        "eixos": "9",
+        "deslocamento": 5.1167,
+        "carga_descarga": 363.83
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "4",
+        "eixos": "4",
+        "deslocamento": 2.8914,
+        "carga_descarga": 239.3
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "4",
+        "eixos": "5",
+        "deslocamento": 3.1866,
+        "carga_descarga": 248.22
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "4",
+        "eixos": "6",
+        "deslocamento": 3.6706,
+        "carga_descarga": 278.78
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "4",
+        "eixos": "7",
+        "deslocamento": 3.9305,
+        "carga_descarga": 315.68
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "4",
+        "eixos": "9",
+        "deslocamento": 4.3309,
+        "carga_descarga": 329.51
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "5",
+        "eixos": "4",
+        "deslocamento": 2.8914,
+        "carga_descarga": 239.3
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "5",
+        "eixos": "5",
+        "deslocamento": 3.1866,
+        "carga_descarga": 248.22
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "5",
+        "eixos": "6",
+        "deslocamento": 3.6706,
+        "carga_descarga": 278.78
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "5",
+        "eixos": "7",
+        "deslocamento": 3.9305,
+        "carga_descarga": 315.68
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "5",
+        "eixos": "9",
+        "deslocamento": 4.3309,
+        "carga_descarga": 329.51
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "6",
+        "eixos": "4",
+        "deslocamento": 2.8914,
+        "carga_descarga": 239.3
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "6",
+        "eixos": "5",
+        "deslocamento": 3.1866,
+        "carga_descarga": 248.22
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "6",
+        "eixos": "6",
+        "deslocamento": 3.6706,
+        "carga_descarga": 278.78
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "6",
+        "eixos": "7",
+        "deslocamento": 3.9305,
+        "carga_descarga": 315.68
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "6",
+        "eixos": "9",
+        "deslocamento": 4.3309,
+        "carga_descarga": 329.51
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "7",
+        "eixos": "4",
+        "deslocamento": 3.4581,
+        "carga_descarga": 347.91
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "7",
+        "eixos": "5",
+        "deslocamento": 3.7532,
+        "carga_descarga": 356.83
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "7",
+        "eixos": "6",
+        "deslocamento": 4.2372,
+        "carga_descarga": 387.39
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "7",
+        "eixos": "7",
+        "deslocamento": 4.5052,
+        "carga_descarga": 426.5
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "7",
+        "eixos": "9",
+        "deslocamento": 4.9055,
+        "carga_descarga": 440.32
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "8",
+        "eixos": "4",
+        "deslocamento": 3.4909,
+        "carga_descarga": 356.92
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "8",
+        "eixos": "5",
+        "deslocamento": 3.786,
+        "carga_descarga": 365.84
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "8",
+        "eixos": "6",
+        "deslocamento": 4.27,
+        "carga_descarga": 396.39
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "8",
+        "eixos": "7",
+        "deslocamento": 4.5379,
+        "carga_descarga": 435.5
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "8",
+        "eixos": "9",
+        "deslocamento": 4.9383,
+        "carga_descarga": 449.33
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "9",
+        "eixos": "4",
+        "deslocamento": 3.8917,
+        "carga_descarga": 353.21
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "9",
+        "eixos": "5",
+        "deslocamento": 4.2499,
+        "carga_descarga": 362.13
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "9",
+        "eixos": "6",
+        "deslocamento": 4.8055,
+        "carga_descarga": 392.69
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "9",
+        "eixos": "7",
+        "deslocamento": 5.0839,
+        "carga_descarga": 434.66
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "9",
+        "eixos": "9",
+        "deslocamento": 5.5717,
+        "carga_descarga": 448.49
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "10",
+        "eixos": "4",
+        "deslocamento": 3.171,
+        "carga_descarga": 311.46
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "10",
+        "eixos": "5",
+        "deslocamento": 3.4661,
+        "carga_descarga": 320.38
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "10",
+        "eixos": "6",
+        "deslocamento": 3.9501,
+        "carga_descarga": 350.93
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "10",
+        "eixos": "7",
+        "deslocamento": 4.2181,
+        "carga_descarga": 390.04
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "10",
+        "eixos": "9",
+        "deslocamento": 4.6184,
+        "carga_descarga": 403.87
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "11",
+        "eixos": "4",
+        "deslocamento": 3.171,
+        "carga_descarga": 311.46
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "11",
+        "eixos": "5",
+        "deslocamento": 3.4661,
+        "carga_descarga": 320.38
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "11",
+        "eixos": "6",
+        "deslocamento": 3.9501,
+        "carga_descarga": 350.93
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "11",
+        "eixos": "7",
+        "deslocamento": 4.2181,
+        "carga_descarga": 390.04
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "11",
+        "eixos": "9",
+        "deslocamento": 4.6184,
+        "carga_descarga": 403.87
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "12",
+        "eixos": "4"
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "12",
+        "eixos": "5",
+        "deslocamento": 3.1866,
+        "carga_descarga": 248.22
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "12",
+        "eixos": "6",
+        "deslocamento": 3.6706,
+        "carga_descarga": 278.78
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "12",
+        "eixos": "7"
+    },
+    {
+        "categoria": "2",
+        "tipo_de_carga": "12",
+        "eixos": "9",
+        "deslocamento": 4.3309,
+        "carga_descarga": 329.51
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "1",
+        "eixos": "2",
+        "deslocamento": 1.9294,
+        "carga_descarga": 90.21
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "1",
+        "eixos": "3",
+        "deslocamento": 2.4158,
+        "carga_descarga": 96.84
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "1",
+        "eixos": "4",
+        "deslocamento": 2.8441,
+        "carga_descarga": 109.5
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "1",
+        "eixos": "5",
+        "deslocamento": 3.2044,
+        "carga_descarga": 112.48
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "1",
+        "eixos": "6",
+        "deslocamento": 3.6171,
+        "carga_descarga": 119.06
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "1",
+        "eixos": "7",
+        "deslocamento": 3.9069,
+        "carga_descarga": 132.99
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "1",
+        "eixos": "9",
+        "deslocamento": 4.4556,
+        "carga_descarga": 139.52
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "2",
+        "eixos": "2",
+        "deslocamento": 1.9514,
+        "carga_descarga": 91.32
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "2",
+        "eixos": "3",
+        "deslocamento": 2.441,
+        "carga_descarga": 98.47
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "2",
+        "eixos": "4",
+        "deslocamento": 2.8729,
+        "carga_descarga": 109.19
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "2",
+        "eixos": "5",
+        "deslocamento": 3.25,
+        "carga_descarga": 114.94
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "2",
+        "eixos": "6",
+        "deslocamento": 3.6628,
+        "carga_descarga": 121.52
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "2",
+        "eixos": "7",
+        "deslocamento": 3.9649,
+        "carga_descarga": 137.5
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "2",
+        "eixos": "9",
+        "deslocamento": 4.5134,
+        "carga_descarga": 143.99
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "3",
+        "eixos": "2",
+        "deslocamento": 2.3372,
+        "carga_descarga": 109.63
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "3",
+        "eixos": "3",
+        "deslocamento": 2.9127,
+        "carga_descarga": 116.41
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "3",
+        "eixos": "4",
+        "deslocamento": 3.4291,
+        "carga_descarga": 133.62
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "3",
+        "eixos": "5",
+        "deslocamento": 3.8857,
+        "carga_descarga": 142.09
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "3",
+        "eixos": "6",
+        "deslocamento": 4.3701,
+        "carga_descarga": 148.68
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "3",
+        "eixos": "7",
+        "deslocamento": 4.6609,
+        "carga_descarga": 162.78
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "3",
+        "eixos": "9",
+        "deslocamento": 5.3028,
+        "carga_descarga": 170.23
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "4",
+        "eixos": "2"
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "4",
+        "eixos": "3",
+        "deslocamento": 2.4119,
+        "carga_descarga": 96.19
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "4",
+        "eixos": "4",
+        "deslocamento": 2.8421,
+        "carga_descarga": 109.19
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "4",
+        "eixos": "5",
+        "deslocamento": 3.2038,
+        "carga_descarga": 112.39
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "4",
+        "eixos": "6",
+        "deslocamento": 3.6166,
+        "carga_descarga": 118.97
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "4",
+        "eixos": "7",
+        "deslocamento": 3.9071,
+        "carga_descarga": 133.02
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "4",
+        "eixos": "9",
+        "deslocamento": 4.4537,
+        "carga_descarga": 139.2
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "5",
+        "eixos": "2",
+        "deslocamento": 1.9272,
+        "carga_descarga": 89.86
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "5",
+        "eixos": "3",
+        "deslocamento": 2.4119,
+        "carga_descarga": 96.19
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "5",
+        "eixos": "4",
+        "deslocamento": 2.8421,
+        "carga_descarga": 109.19
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "5",
+        "eixos": "5",
+        "deslocamento": 3.2038,
+        "carga_descarga": 112.39
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "5",
+        "eixos": "6",
+        "deslocamento": 3.6166,
+        "carga_descarga": 118.97
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "5",
+        "eixos": "7",
+        "deslocamento": 3.9071,
+        "carga_descarga": 133.02
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "5",
+        "eixos": "9",
+        "deslocamento": 4.4537,
+        "carga_descarga": 139.2
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "6",
+        "eixos": "2",
+        "deslocamento": 1.6938,
+        "carga_descarga": 89.86
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "6",
+        "eixos": "3",
+        "deslocamento": 2.4119,
+        "carga_descarga": 96.19
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "6",
+        "eixos": "4",
+        "deslocamento": 2.8476,
+        "carga_descarga": 110.08
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "6",
+        "eixos": "5",
+        "deslocamento": 3.2038,
+        "carga_descarga": 112.39
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "6",
+        "eixos": "6",
+        "deslocamento": 3.6166,
+        "carga_descarga": 118.97
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "6",
+        "eixos": "7",
+        "deslocamento": 3.9071,
+        "carga_descarga": 133.02
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "6",
+        "eixos": "9",
+        "deslocamento": 4.4537,
+        "carga_descarga": 139.2
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "7",
+        "eixos": "2",
+        "deslocamento": 2.2978,
+        "carga_descarga": 124.1
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "7",
+        "eixos": "3",
+        "deslocamento": 2.7843,
+        "carga_descarga": 130.72
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "7",
+        "eixos": "4",
+        "deslocamento": 3.2415,
+        "carga_descarga": 146.75
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "7",
+        "eixos": "5",
+        "deslocamento": 3.6018,
+        "carga_descarga": 149.73
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "7",
+        "eixos": "6",
+        "deslocamento": 4.0146,
+        "carga_descarga": 156.31
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "7",
+        "eixos": "7",
+        "deslocamento": 4.3129,
+        "carga_descarga": 171.66
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "7",
+        "eixos": "9",
+        "deslocamento": 4.8617,
+        "carga_descarga": 178.19
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "8",
+        "eixos": "2",
+        "deslocamento": 2.3163,
+        "carga_descarga": 127.14
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "8",
+        "eixos": "3",
+        "deslocamento": 2.8059,
+        "carga_descarga": 134.29
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "8",
+        "eixos": "4",
+        "deslocamento": 3.2513,
+        "carga_descarga": 148.37
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "8",
+        "eixos": "5",
+        "deslocamento": 3.6285,
+        "carga_descarga": 154.13
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "8",
+        "eixos": "6",
+        "deslocamento": 4.0412,
+        "carga_descarga": 160.71
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "8",
+        "eixos": "7",
+        "deslocamento": 4.352,
+        "carga_descarga": 178.11
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "8",
+        "eixos": "9",
+        "deslocamento": 4.9005,
+        "carga_descarga": 184.6
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "9",
+        "eixos": "2",
+        "deslocamento": 2.6775,
+        "carga_descarga": 140.88
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "9",
+        "eixos": "3",
+        "deslocamento": 3.2529,
+        "carga_descarga": 147.66
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "9",
+        "eixos": "4",
+        "deslocamento": 3.7921,
+        "carga_descarga": 169.24
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "9",
+        "eixos": "5",
+        "deslocamento": 4.2488,
+        "carga_descarga": 177.71
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "9",
+        "eixos": "6",
+        "deslocamento": 4.7331,
+        "carga_descarga": 184.3
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "9",
+        "eixos": "7",
+        "deslocamento": 5.0352,
+        "carga_descarga": 200.25
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "9",
+        "eixos": "9",
+        "deslocamento": 5.6771,
+        "carga_descarga": 207.71
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "10",
+        "eixos": "2"
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "10",
+        "eixos": "3",
+        "deslocamento": 2.5782,
+        "carga_descarga": 122.22
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "10",
+        "eixos": "4",
+        "deslocamento": 3.0374,
+        "carga_descarga": 138.58
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "10",
+        "eixos": "5",
+        "deslocamento": 3.3991,
+        "carga_descarga": 141.78
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "10",
+        "eixos": "6",
+        "deslocamento": 3.8118,
+        "carga_descarga": 148.36
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "10",
+        "eixos": "7",
+        "deslocamento": 4.111,
+        "carga_descarga": 163.84
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "10",
+        "eixos": "9",
+        "deslocamento": 4.6576,
+        "carga_descarga": 170.01
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "11",
+        "eixos": "2",
+        "deslocamento": 2.0936,
+        "carga_descarga": 115.89
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "11",
+        "eixos": "3",
+        "deslocamento": 2.5782,
+        "carga_descarga": 122.22
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "11",
+        "eixos": "4",
+        "deslocamento": 3.0374,
+        "carga_descarga": 138.58
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "11",
+        "eixos": "5",
+        "deslocamento": 3.3991,
+        "carga_descarga": 141.78
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "11",
+        "eixos": "6",
+        "deslocamento": 3.8118,
+        "carga_descarga": 148.36
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "11",
+        "eixos": "7",
+        "deslocamento": 4.111,
+        "carga_descarga": 163.84
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "11",
+        "eixos": "9",
+        "deslocamento": 4.6576,
+        "carga_descarga": 170.01
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "12",
+        "eixos": "2"
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "12",
+        "eixos": "3"
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "12",
+        "eixos": "4"
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "12",
+        "eixos": "5",
+        "deslocamento": 3.2555,
+        "carga_descarga": 120.93
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "12",
+        "eixos": "6",
+        "deslocamento": 3.6683,
+        "carga_descarga": 127.51
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "12",
+        "eixos": "7"
+    },
+    {
+        "categoria": "3",
+        "tipo_de_carga": "12",
+        "eixos": "9",
+        "deslocamento": 4.5303,
+        "carga_descarga": 151.84
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "1",
+        "eixos": "4",
+        "deslocamento": 2.6536,
+        "carga_descarga": 104.33
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "1",
+        "eixos": "5",
+        "deslocamento": 2.9279,
+        "carga_descarga": 106.26
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "1",
+        "eixos": "6",
+        "deslocamento": 3.3407,
+        "carga_descarga": 112.84
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "1",
+        "eixos": "7",
+        "deslocamento": 3.5339,
+        "carga_descarga": 123.96
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "1",
+        "eixos": "9",
+        "deslocamento": 3.902,
+        "carga_descarga": 126.94
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "2",
+        "eixos": "4",
+        "deslocamento": 2.6843,
+        "carga_descarga": 104.33
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "2",
+        "eixos": "5",
+        "deslocamento": 2.9586,
+        "carga_descarga": 106.26
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "2",
+        "eixos": "6",
+        "deslocamento": 3.3714,
+        "carga_descarga": 112.84
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "2",
+        "eixos": "7",
+        "deslocamento": 3.5646,
+        "carga_descarga": 123.96
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "2",
+        "eixos": "9",
+        "deslocamento": 3.9327,
+        "carga_descarga": 126.94
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "3",
+        "eixos": "4",
+        "deslocamento": 3.2183,
+        "carga_descarga": 125.1
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "3",
+        "eixos": "5",
+        "deslocamento": 3.5556,
+        "carga_descarga": 127.02
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "3",
+        "eixos": "6",
+        "deslocamento": 4.04,
+        "carga_descarga": 133.6
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "3",
+        "eixos": "7",
+        "deslocamento": 4.2418,
+        "carga_descarga": 146.15
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "3",
+        "eixos": "9",
+        "deslocamento": 4.6975,
+        "carga_descarga": 149.13
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "4",
+        "eixos": "4",
+        "deslocamento": 2.6536,
+        "carga_descarga": 104.33
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "4",
+        "eixos": "5",
+        "deslocamento": 2.9279,
+        "carga_descarga": 106.26
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "4",
+        "eixos": "6",
+        "deslocamento": 3.3407,
+        "carga_descarga": 112.84
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "4",
+        "eixos": "7",
+        "deslocamento": 3.5339,
+        "carga_descarga": 123.96
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "4",
+        "eixos": "9",
+        "deslocamento": 3.902,
+        "carga_descarga": 126.94
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "5",
+        "eixos": "4",
+        "deslocamento": 2.6536,
+        "carga_descarga": 104.33
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "5",
+        "eixos": "5",
+        "deslocamento": 2.9279,
+        "carga_descarga": 106.26
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "5",
+        "eixos": "6",
+        "deslocamento": 3.3407,
+        "carga_descarga": 112.84
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "5",
+        "eixos": "7",
+        "deslocamento": 3.5339,
+        "carga_descarga": 123.96
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "5",
+        "eixos": "9",
+        "deslocamento": 3.902,
+        "carga_descarga": 126.94
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "6",
+        "eixos": "4",
+        "deslocamento": 2.6536,
+        "carga_descarga": 104.33
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "6",
+        "eixos": "5",
+        "deslocamento": 2.9279,
+        "carga_descarga": 106.26
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "6",
+        "eixos": "6",
+        "deslocamento": 3.3407,
+        "carga_descarga": 112.84
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "6",
+        "eixos": "7",
+        "deslocamento": 3.5339,
+        "carga_descarga": 123.96
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "6",
+        "eixos": "9",
+        "deslocamento": 3.902,
+        "carga_descarga": 126.94
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "7",
+        "eixos": "4",
+        "deslocamento": 3.051,
+        "carga_descarga": 141.58
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "7",
+        "eixos": "5",
+        "deslocamento": 3.3254,
+        "carga_descarga": 143.5
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "7",
+        "eixos": "6",
+        "deslocamento": 3.7381,
+        "carga_descarga": 150.09
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "7",
+        "eixos": "7",
+        "deslocamento": 3.9399,
+        "carga_descarga": 162.63
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "7",
+        "eixos": "9",
+        "deslocamento": 4.308,
+        "carga_descarga": 165.61
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "8",
+        "eixos": "4",
+        "deslocamento": 3.0628,
+        "carga_descarga": 143.52
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "8",
+        "eixos": "5",
+        "deslocamento": 3.3371,
+        "carga_descarga": 145.44
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "8",
+        "eixos": "6",
+        "deslocamento": 3.7499,
+        "carga_descarga": 152.03
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "8",
+        "eixos": "7",
+        "deslocamento": 3.9517,
+        "carga_descarga": 164.57
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "8",
+        "eixos": "9",
+        "deslocamento": 4.3198,
+        "carga_descarga": 167.55
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "9",
+        "eixos": "4",
+        "deslocamento": 3.5813,
+        "carga_descarga": 160.72
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "9",
+        "eixos": "5",
+        "deslocamento": 3.9187,
+        "carga_descarga": 162.64
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "9",
+        "eixos": "6",
+        "deslocamento": 4.4031,
+        "carga_descarga": 169.22
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "9",
+        "eixos": "7",
+        "deslocamento": 4.6161,
+        "carga_descarga": 183.62
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "9",
+        "eixos": "9",
+        "deslocamento": 5.0717,
+        "carga_descarga": 186.6
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "10",
+        "eixos": "4",
+        "deslocamento": 2.8489,
+        "carga_descarga": 133.72
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "10",
+        "eixos": "5",
+        "deslocamento": 3.1232,
+        "carga_descarga": 135.65
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "10",
+        "eixos": "6",
+        "deslocamento": 3.536,
+        "carga_descarga": 142.23
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "10",
+        "eixos": "7",
+        "deslocamento": 3.7378,
+        "carga_descarga": 154.77
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "10",
+        "eixos": "9",
+        "deslocamento": 4.1059,
+        "carga_descarga": 157.75
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "11",
+        "eixos": "4",
+        "deslocamento": 2.8489,
+        "carga_descarga": 133.72
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "11",
+        "eixos": "5",
+        "deslocamento": 3.1232,
+        "carga_descarga": 135.65
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "11",
+        "eixos": "6",
+        "deslocamento": 3.536,
+        "carga_descarga": 142.23
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "11",
+        "eixos": "7",
+        "deslocamento": 3.7378,
+        "carga_descarga": 154.77
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "11",
+        "eixos": "9",
+        "deslocamento": 4.1059,
+        "carga_descarga": 157.75
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "12",
+        "eixos": "4"
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "12",
+        "eixos": "5",
+        "deslocamento": 2.9279,
+        "carga_descarga": 106.26
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "12",
+        "eixos": "6",
+        "deslocamento": 3.3407,
+        "carga_descarga": 112.84
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "12",
+        "eixos": "7"
+    },
+    {
+        "categoria": "4",
+        "tipo_de_carga": "12",
+        "eixos": "9",
+        "deslocamento": 3.902,
+        "carga_descarga": 126.94
+    }
+]
