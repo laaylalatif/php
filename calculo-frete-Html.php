@@ -93,8 +93,8 @@ include "CalcularFrete.php";
 
                                           /* Imprimindo o HTML na tela */
                                         
-                                        $val  = '<h6 style="text-align: center"><b>Deslocamento (CC)</b>: R$ ' . number_format($frete->getCC(), 2, ',', '.').'</h6>';
-                                        $val .= '<h6 style="text-align: center"><b>Carga e descarga (CCD)</b>: R$ ' . number_format($frete->getCCD(), 2, ',', '.').'</h6>';
+                                        $val  = '<h6 style="text-align: center"><b>Deslocamento (CCD)</b>: R$ ' . number_format($frete->getCC(), 2, ',', '.').'</h6>';
+                                        $val .= '<h6 style="text-align: center"><b>Carga e descarga (CC)</b>: R$ ' . number_format($frete->getCCD(), 2, ',', '.').'</h6>';
                                         $val .= '<h6 style="text-align: center"><b>Total = (CCD + CC)</b>'.'</h6>';
                                         $val .= '<br/><h3 style="text-align: center"><b>Total</b>: R$ ' . number_format($frete->getTotal(), 2, ',', '.').'</h3>';
                                         $val .= '<br/>';
