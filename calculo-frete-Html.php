@@ -91,15 +91,18 @@ include "CalcularFrete.php";
                                         /* Calculando o valor do frete */
                                         $frete->calculate();
 
-                                        /* Imprimindo o HTML na tela */
-                                        $val = ('<br><b>Categoria do transporte</b>: ') .$category[$_POST['category']];
-                                        $val .= ('<br><b>Tipo de Transporte</b>: ') .$type[$_POST['type']];
-                                        $val .= ('<br><b>Número de eixos</b>: ') .$_POST['axes']; //.= significa acrescente
-                                        $val .= ('<br><b>Distância (km)</b>: ') .$_POST['distance'];
-                                        $val .= '<br />';
-                                        $val .= '<br /><b>CC</b>: R$ ' . number_format($frete->getCC(), 2, ',', '.');
-                                        $val .= '<br /><b>CCD</b>: R$ ' . number_format($frete->getCCD(), 2, ',', '.');
-                                        $val .= '<br /><b>Total</b>: R$ ' . number_format($frete->getTotal(), 2, ',', '.');
+                                          /* Imprimindo o HTML na tela */
+                                        
+                                        $val  = '<h6 style="text-align: center"><b>Deslocamento (CC)</b>: R$ ' . number_format($frete->getCC(), 2, ',', '.').'</h6>';
+                                        $val .= '<h6 style="text-align: center"><b>Carga e descarga (CCD)</b>: R$ ' . number_format($frete->getCCD(), 2, ',', '.').'</h6>';
+                                        $val .= '<h6 style="text-align: center"><b>Total = (CCD + CC)</b>'.'</h6>';
+                                        $val .= '<br/><h3 style="text-align: center"><b>Total</b>: R$ ' . number_format($frete->getTotal(), 2, ',', '.').'</h3>';
+                                        $val .= '<br/>';
+                                        $val .= ('<h6 style="text-align: center"><b>Categoria do transporte</b>: ') .$category[$_POST['category']].'</h6>';
+                                        $val .= ('<h6 style="text-align: center"><b>Tipo de Transporte</b>: ') .$type[$_POST['type']].'</h6>';
+                                        $val .= ('<h6 style="text-align: center"><b>Número de eixos</b>: ') .$_POST['axes'].'</h6>'; //.= significa acrescente
+                                        $val .= ('<h6 style="text-align: center"><b>Distância (Km)</b>: ') .$_POST['distance'].'</h6>';
+                                        
                                         echo($val);
                                     }
                                     ?>
@@ -118,7 +121,7 @@ include "CalcularFrete.php";
     </div>
     </div>
     </div>
-    <script src="bootstrap-5.0.0-beta2-dist/js/bootstrap.bundle.min.js"></script>
+    <script src="bootstrap-5.0.0-beta2-dist/js/bootstrap.bundle.min.js"></script> //JAVASCRIPT
     <!--<script>
         var table = [];
         fetch("./table.json").then(
